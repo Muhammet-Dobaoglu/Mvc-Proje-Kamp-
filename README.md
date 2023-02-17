@@ -144,3 +144,13 @@ Murat Yücedağ ile MVC Proje Kampı konularına paralel olarak geliştirdim.
    - Veri tabanının canlıya taşınması Ve backup işlemi yapıldı.
 ### Ders 100
    100.Ders **Final** 
+![2](https://user-images.githubusercontent.com/106467744/219569857-06ddd1b8-abf5-47c2-a279-7538a4d8b6b0.png)
+![3](https://user-images.githubusercontent.com/106467744/219569866-83e460c4-e1e6-42c6-98a8-eacbadd3921a.png)
+![1](https://user-images.githubusercontent.com/106467744/219569939-b35c8cdc-85be-4837-ad26-107e1e46a079.png)
+![8](https://user-images.githubusercontent.com/106467744/219569868-cfc85634-c82d-4c90-afcd-abb824b60d5a.png)
+![4](https://user-images.githubusercontent.com/106467744/219569881-c28a38b1-e700-4a39-a7b8-5bf26d5bc52a.png)
+![5](https://user-images.githubusercontent.com/106467744/219569893-590655c0-8388-43ef-9ca0-cb8328ea5aed.png)
+![6](https://user-images.githubusercontent.com/106467744/219569915-a2b71044-d25f-4715-af2d-3d9bab90308b.png)
+![7](https://user-images.githubusercontent.com/106467744/219569921-b7e8bc25-97ae-4571-9d11-e175418c61f0.png)
+
+
