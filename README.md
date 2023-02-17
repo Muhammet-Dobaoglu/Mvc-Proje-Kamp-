@@ -1,69 +1,8 @@
-# MURAT YÜCEDAĞ İLE MVC PROJE KAMPI
-<hr>
-Repo Murat Yücedağ ile MVC Proje Kampı konularına paralel olarak geliştirilmektedir.
-<br>
+Murat Yücedağ ile MVC Proje Kampı konularına paralel olarak geliştirdim.
 
-Eğitime ulaşmak için [tıklayınız](https://www.youtube.com/watch?v=yFToRUL6h8A&list=PLKnjBHu2xXNNQJehhCg--CzQQMHXTsFAb)
-<br>
 👍 Toplam 100 Dersten oluşacak kampın 100.derse gelinerek dört sertifika görevi tamamlandı. Aşağıdaki sertifikayı alma hakkına sahip oldum.
 <img src = "https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/BERKCAN%20G%C3%9CM%C3%9C%C5%9EI%C5%9EIK.jpg">
 <br>
-## 1. SERTİFİKA GÖREVİNE KADAR YAPILANLAR
-<ol>
-  <li>Ana Katmanlar oluşturuldu (Business Layer,Entity Layer ve Data Access Layer)</li>
-  <li>Business Layer ve Data Access Layer Entity Framework desteği eklendi.</li>
-  <li>Veritabanı desteği eklendi ve gerekli entegrasyonlar yapıldı.</li>
-</ol>
-
-## 2. SERTİFİKA GÖREVİNE KADAR YAPILANLAR
-<ol>
-  <li>Seçilen Admin paneli yüklendi </li>
-  <li>Seçilen Admin panelinin değişiklikleri yapılarak kendi temamıza göre güncelledik</li>
-  <li>Kategori ekleme, silme, güncelleme desteği eklendi.</li>
-  <li>Ödev olarak istatistik sayfası oluşturuldu.</li>
-</ol>
-
-## 3. SERTİFİKA GÖREVİNE KADAR YAPILANLAR
-<ol>
-  <li>Başlık İşlemleri tamamlandı.</li>
-  <li>Hakkımızda sayfası yapıldı.</li>
-  <li>Mesaj Sayfası oluşturuldu.</li>
-  <li>404 Sayfası oluşturuldu.</li>
-  <li>Galeri Sayfası oluşturuldu.</li>
-  <li>Admin Login sayfası oluşturuldu.</li>
-  <li>Ödev olarak
-    <ol>
-  <li>Gelen Kutusuna okundu okunmadı seçeneği eklendi.</li>
-  <li>Okunmamış Mesaj Sayıları eklendi.</li>
-  <li>Hakkımızda sayfası aktif pasif işlemleri eklendi.</li>
-  <li>Admin Bilgileri hashlendi.</li>
-  <li>Oturum açma işlemleri mimariye taşındı.</li>
-  <li>Rolleme işlemi mimariye taşındı.
-    </ol>
-  </li>
-  <li>Yetenek kartı eklendi.</li>
-</ol>
-  
-## 4. SERTİFİKA GÖREVİNE KADAR YAPILANLAR
-<ol>
-  <li>Recaptcha entegrasyonu yapıldı.</li>
-  <li>Yazar giriş ve kayıt ekranı mimariye taşındı.</li>
-  <li>Authentication ve Session işlemleri yapıldı.</li>
-  <li>Vitrin Sayfası oluşturuldu.</li>
-  <li>Her kullanıcıya kendi mesajlarının getirilme işlemi sağlandı.</li>
-  <li>Başlılara yeni yorum girişi sağlandı.</li>
-  <li>Yazar ve Admin sayfaları tamamlandı.</li>
-  <li>Tüm eksiklikler giderildi.</li>
-  <li>Proje canlıya taşındı.</li>
-  <li>Ödev olarak
-    <ol>
-  <li>Yetenek kartına veri ekleme, silme ve güncelleme eklendi.</li>
-  <li>Galeri sayfasına görsel ekleme özelliği sağlandı.</li>
-  <li>Takvim eklendi.</li>
-    </ol>
-  </li>
-</ol>
-
 
 ## Proje İlerleyişi
 ### Ders 1-20
@@ -211,24 +150,3 @@ Eğitime ulaşmak için [tıklayınız](https://www.youtube.com/watch?v=yFToRUL6
    100.Ders **Final** Canlı Yayını İçin [Tıklayınız](https://youtu.be/2FV6SRyL7U0)
 
 # PROJEDEN GÖRSELLER
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/1.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/2.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/3.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/4.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/5.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/6.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/7.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/8.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/9.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/10.png">
-<br>
-<img src="https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/Yetenek%20Kart%C4%B1m.png">
