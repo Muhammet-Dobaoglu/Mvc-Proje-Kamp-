@@ -1,9 +1,5 @@
 Murat Yücedağ ile MVC Proje Kampı konularına paralel olarak geliştirdim.
 
-👍 Toplam 100 Dersten oluşacak kampın 100.derse gelinerek dört sertifika görevi tamamlandı. Aşağıdaki sertifikayı alma hakkına sahip oldum.
-<img src = "https://github.com/berkcangumusisik/MvcProjeKampi/blob/master/G%C3%B6rseller/BERKCAN%20G%C3%9CM%C3%9C%C5%9EI%C5%9EIK.jpg">
-<br>
-
 ## Proje İlerleyişi
 ### Ders 1-20
    - Giriş yapıldı ve proje oluşturuldu.
@@ -147,6 +143,4 @@ Murat Yücedağ ile MVC Proje Kampı konularına paralel olarak geliştirdim.
    - Proje publish işlemi ve projenin canlıya taşınması işlemleri yapıldı.
    - Veri tabanının canlıya taşınması Ve backup işlemi yapıldı.
 ### Ders 100
-   100.Ders **Final** Canlı Yayını İçin [Tıklayınız](https://youtu.be/2FV6SRyL7U0)
-
-# PROJEDEN GÖRSELLER
+   100.Ders **Final** 
