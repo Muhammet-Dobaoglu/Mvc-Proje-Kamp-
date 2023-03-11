@@ -1,6 +1,6 @@
 Murat Yücedağ ile MVC Proje Kampı konularına paralel olarak geliştirdim.
 
-## Proje İlerleyişi
+## Proje İlerleyişi 
 ### Ders 1-20
    - Giriş yapıldı ve proje oluşturuldu.
    - View, Controller ve Layout kavramları üzerinde duruldu.
